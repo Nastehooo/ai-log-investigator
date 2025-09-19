@@ -56,5 +56,5 @@ An AI-powered web application built with FastAPI that analyzes log files and pro
     "Enable connection pool monitoring",
     "Optimize query performance"
   ]
-} `
+} 
 
