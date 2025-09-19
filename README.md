@@ -43,22 +43,15 @@ An AI-powered web application built with FastAPI that analyzes log files and pro
   
   
 
-# Example Output 
-```yaml {
-  "root_cause": "Database connection pool exhaustion",
-  "immediate_actions": [
-    "Restart affected service",
-    "Free up unused DB connections"
-  ],
-  "investigation": [
-    "Check DB logs",
-    "Analyze connection pool limits"
-  ],
-  "prevention": [
-    "Enable connection pool monitoring",
-    "Optimize query performance"
-  ]
-}
+# Project Structure 
+```text
+ai-log-investigator/
+├── main.py              # FastAPI backend
+├── templates/
+│   └── index.html       # Frontend UI
+├── requirements.txt     # Python dependencies
+├── README.md            # Project documentation
+└── .gitignore           # Ignore venv/logs
 
 
 
