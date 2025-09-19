@@ -41,7 +41,7 @@ An AI-powered web application built with FastAPI that analyzes log files and pro
     - ✅ Investigation Steps
     - ✅ Prevention Measures
   
-# Video Setup
+# Project Demo
 https://github.com/user-attachments/assets/f1be5521-6cfc-468b-ac19-e5bf8bdb253c
   
 # Project Structure 
