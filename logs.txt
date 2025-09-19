@@ -1,0 +1,5 @@
+Start simple — just create a logs.txt file with dummy error messages:
+[2025-09-18 10:03:23] ERROR: Database connection failed: timeout expired
+[2025-09-18 10:03:24] WARNING: Retrying request to db-server-1
+[2025-09-18 10:03:26] ERROR: Could not allocate connection from pool
+[2025-09-18 10:03:30] INFO: Service restarted successfully
