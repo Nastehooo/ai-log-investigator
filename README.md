@@ -13,8 +13,8 @@ An AI-powered web application built with FastAPI that analyzes log files and pro
 
 # Installation 
 1. Clone the repository:
-   > git clone https://github.com/Nastehooo/ai-log-investigator.git
-   > cd ai-log-investigator
+   > - git clone https://github.com/Nastehooo/ai-log-investigator.git
+   > - cd ai-log-investigator
 
 2. Create and activate a virtual environment:
    > python -m venv venv
@@ -40,6 +40,8 @@ An AI-powered web application built with FastAPI that analyzes log files and pro
     - ✅ Immediate Actions
     - ✅ Investigation Steps
     - ✅ Prevention Measures
+  
+  
 
 # Example Output 
 ```yaml {
@@ -56,5 +58,7 @@ An AI-powered web application built with FastAPI that analyzes log files and pro
     "Enable connection pool monitoring",
     "Optimize query performance"
   ]
-} 
+}
+
+
 
