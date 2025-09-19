@@ -41,8 +41,6 @@ An AI-powered web application built with FastAPI that analyzes log files and pro
     - ✅ Investigation Steps
     - ✅ Prevention Measures
   
-  
-
 # Project Structure 
 ```text
 ai-log-investigator/
@@ -52,6 +50,3 @@ ai-log-investigator/
 ├── requirements.txt     # Python dependencies
 ├── README.md            # Project documentation
 └── .gitignore           # Ignore venv/logs
-
-
-
